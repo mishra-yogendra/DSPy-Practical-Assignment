@@ -1,0 +1,413 @@
+link,tag,tag_type
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Polyculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Shade-grown coffee,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Climate change,Disease
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ecosystem services,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Deforestation,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable food systems,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Flexible business processes,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Land degradation,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Environmental footprint,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water pollution,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Water scarcity,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,biodiversity,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,permaculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,agroforestry,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,mixed farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,multiple cropping,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,crop rotation,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,land sparing,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,climate change,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,organic certification,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rainforest Alliance,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Fair Trade,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,UTZ Certified,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,GlobalGAP,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Bird Friendly,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Common Code for the Coffee Community,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,environmental impacts,Disease
+https://en.wikipedia.org/wiki/Sustainable_agriculture,sustainable diets,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,West Asia,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ancient Egypt,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ancient Greece,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Ancient Rome,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Austronesia,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,agricultural science,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,agricultural history,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Arab Agricultural Revolution,Event
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Argentina,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Canada,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,China,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Chile,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Columbian exchange,Event
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Green Revolution,Event
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Indian subcontinent,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Mesoamerica,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Middle Ages,Period
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Neolithic Revolution,Event
+https://en.wikipedia.org/wiki/Sustainable_agriculture,organic farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Palestine,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Peru,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,United Kingdom,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,British Agricultural Revolution,Event
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Cheshire,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Scotland,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,United States,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,California,Place
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agrivoltaic,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,animal husbandry,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,cattle,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,pigs,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,poultry,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,sheep,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,dairy,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,dryland,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,extensive,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,fertilizer,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,free-range,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,grazing,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,convertible husbandry,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,rotational grazing,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,hobby,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,intensive,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,natural,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,monoculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,orchard,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,paddy field,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,ranching,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,sharecropping,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Slash-and-burn,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Steam sterilization,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Hydroculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Aquaculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Aquaponics,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Hydroponics,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Aeroponics,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agribusiness,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agricultural cooperative,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agricultural science,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agricultural engineering,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agricultural technology,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Precision agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Biotechnology,Technology
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agronomy,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Cash crop,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Cellular agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Contract farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Paludiculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rice-duck farming,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Rice-fish system,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable food system,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Agriculturist,Profession
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Mechanised agriculture,Method
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Horticulture,Field
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Farmhouse,Location
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Feed ratio,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Universities and colleges,Location
+https://www.nature.com/articles/d41586-025-03353-5,Alzheimer’s disease,Disease
+https://www.nature.com/articles/d41586-025-03353-5,ageing,Process
+https://www.nature.com/articles/d41586-025-03353-5,brain scans,Method
+https://www.nature.com/articles/d41586-025-03353-5,Proceedings of the National Academy of Sciences,Concept
+https://www.nature.com/articles/d41586-025-03353-5,Alzheimer’s Drugs,Drug
+https://www.nature.com/articles/d41586-025-03353-5,brain changes,Process
+https://www.nature.com/articles/d41586-025-03353-5,Alzheimer’s,Disease
+https://www.nature.com/articles/d41586-025-03353-5,lithium,Drug
+https://www.nature.com/articles/d41586-025-03353-5,Ageing Brain Neurodegeneration,Concept
+https://www.nature.com/articles/d41586-025-03353-5,gene therapy,Method
+https://www.nature.com/articles/d41586-025-03353-5,Huntington’s disease,Disease
+https://www.nature.com/articles/d41586-025-03353-5,brain development,Process
+https://www.nature.com/articles/d41586-025-03353-5,skin capillary ageing,Concept
+https://www.nature.com/articles/d41586-025-03353-5,breast cancer,Disease
+https://www.nature.com/articles/d41586-025-03353-5,nanofab processes,Method
+https://www.nature.com/articles/d41586-025-03353-5,Belfast,Location
+https://www.nature.com/articles/d41586-025-03353-5,Queen's University Belfast,Organization
+https://www.nature.com/articles/d41586-025-03353-5,"Guangming Distrcit, Shenzhen, China",Location
+https://www.nature.com/articles/d41586-025-03353-5,Shenzhen Medical Academy of Research and Translation,Organization
+https://www.nature.com/articles/d41586-025-03353-5,"Madison, Wisconsin",Location
+https://www.nature.com/articles/d41586-025-03353-5,University of Wisconsin School of Medicine and Public Health,Organization
+https://www.nature.com/articles/d41586-025-03353-5,Université libre de Bruxelles,Organization
+https://www.nature.com/articles/d41586-025-03353-5,molecular biology,Field
+https://www.nature.com/articles/d41586-025-03353-5,biotechnology,Field
+https://www.nature.com/articles/d41586-025-03353-5,synthetic biology,Field
+https://www.nature.com/articles/d41586-025-03353-5,CUHK-Shenzhen,University
+https://www.nature.com/articles/d41586-025-03353-5,Gosselies,Location
+https://www.nature.com/articles/d41586-025-03353-5,Shenzhen,Location
+https://www.nature.com/articles/d41586-025-03353-5,Guangdong,Location
+https://www.nature.com/articles/d41586-025-03353-5,Ageing,Concept
+https://www.nature.com/articles/d41586-025-03353-5,lithium supplement,Drug
+https://www.nature.com/articles/d41586-025-03353-5,memory loss,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Ivermectin,Drug
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Avermectin,Drug
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Selamectin,Drug
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Doramectin,Drug
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Moxidectin,Drug
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Cancer,Disease
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Tumor,Disease
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Neoplasm,Disease
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Triple-negative breast cancer (TNBC),Disease
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Drug repositioning,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Apoptosis,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Autophagy,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Pyroptosis,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Proliferation,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Metastasis,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Angiogenic activity,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Multidrug resistance (MDR),Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Cell death,Process
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Chemotherapy,Method
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Targeted therapy,Method
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Signaling pathways,Concept
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,Crosstalk,Concept
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,PAK1 kinase,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,EGFR,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,HER2,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,ASC,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,GSDMD,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,LDH,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,PARP,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,SOX-2,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,OCT-4,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,STAT3,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,YAP1,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,HMGB1,Protein
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,HSP27,Protein
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,auditory task switching,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task with overlapping and non-overlapping response sets,Task
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,National Institutes of Health,Organization
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,NLM database,Database
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,.gov website,Website
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,RWTH Aachen University,University
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Goethe-University Frankfurt,University
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Psychol Res,Journal
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Sophie Nolden,Author
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Iring Koch,Author
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Cognitive and Experimental Psychology,Field of Study
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Developmental Psychology,Field of Study
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cued auditory task switching,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task preparation,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response-set overlap,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,interference,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response-based crosstalk,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task shielding,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,manual responses,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,vocal responses,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,switch costs,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cue-stimulus interval,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,CSI,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Creative Commons licence,License
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,PMC,Database
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,PMCID,Identifier
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,PMID,Identifier
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,statutory regulation,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,copyright holder,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Task-switching,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Audition,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Preparation,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Stimulus dimensions,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Introduction,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cognitive system,Disease
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,performance impairments,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response times,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,error rates,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,review,Method
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,tasks,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,switching between tasks,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,daily living,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,challenges,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,bass,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,volume,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,songs,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,playlist,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,sequence,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,adjustment,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,Food security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,2002 food crisis,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Southern Africa,Location
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Summit,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,FAO,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,World Bank,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,Chronic food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,Transitory food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,Trade liberalization,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Summit in November 1996,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Conference,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,Green Revolution,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,poverty,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,malnutrition,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,hunger,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,famine,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,low incomes,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,natural disasters,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,economic collapse,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,conflict,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,protein-energy malnutrition,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food safety,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,nutritional balance,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,food composition,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,minor nutrient requirements,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Tramadol,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Chronic Pain,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Systematic Review,Method
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Meta-Analysis,Method
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Opioid,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Serotonin,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Norepinephrine,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Morphine,Drug
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Prescription,Process
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Medscape Medical News,Organization
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Copenhagen,Location
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Denmark,Location
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Centre for Clinical Intervention Research,Organization
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Rigshospitalet,Organization
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,BMJ Evidence-Based Medicine,Journal
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,osteoarthritis,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,neuropathic pain,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,trial sequential analysis,Method
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,pain intensity,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,numeric rating scale (NRS),Method
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,quality of life,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,coronary artery disease,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,heart failure,Disease
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,adverse events,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,cardiac complications,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,chest pain,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,nausea,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,dizziness,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,constipation,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,drowsiness,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,The University of British Columbia,Organization
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Vancouver,Location
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,British Columbia,Location
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Canada,Location
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,chronic pain conditions,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Therapeutics Initiative,Organization
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,pain relief,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,analgesics,Concept
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,Medscape Medical News,Source
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,opioid,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,ambient temperature,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,thermoregulation,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,heat waves,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,cold winter spells,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,malnutrition,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,carbon footprint,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,urban planning,Method
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,reduction in energy consumption,Method
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,climate change,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,air pollution,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,greenhouse effect,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,respiratory disease,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,cardiovascular disease,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,vector-borne diseases,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,waterborne diseases,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,foodborne diseases,Disease
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,mental health problems,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,allergies,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,elderly,Demographic
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,infants,Demographic
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,vulnerable groups,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,primary producers,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,livestock,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,carbon dioxide,Chemical
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,methane,Chemical
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,nitrous oxide,Chemical
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,ocean acidification,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,ozone depletion,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,adaptation,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,acclimatization,Concept
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,epidemiological studies,Method
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,public health measures,Method
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,mortality,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth 2.0,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Diffrative Interfero Coronagraph Exoplanet Resolver (DICER),Telescope
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,James Webb Space Telescope,Telescope
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Rensselaer Polytechnic Institute,Institution
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Astronomy and Space Sciences,Field of Study
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Heidi Newberg,Person
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Milky Way,Galaxy
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Frontiers in Astronomy and Space Sciences,Journal
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Diffractive Interfero Coronagraph,Process
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,infrared space observatory,Method
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space probe,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Sun,Star
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,light-years,Unit of measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth,Planet
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,optics theory,Scientific concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,microns,Unit of measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,atmosphere,Scientific concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,meters,Unit of measurement
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,liquid water,Scientific concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,spacecraft position accuracy,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,calibration,Method
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,molecule size,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,wavelength light,Method
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,telescope,Device
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,sun-like star,Astronomical Object
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,starlight,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,starshade,Spacecraft
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space telescope,Device
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,image resolution,Process
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Shingles,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Recombinant herpes zoster vaccine,Vaccine
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,CDC,Organization
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Herpes zoster,Medical Condition
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Adults Over 65,Demographic
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Ophthalmicus,Medical Condition
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Postherpetic neuralgia,Medical Condition
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Annals of Internal Medicine,Journal
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,University of North Carolina School of Medicine,University
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Department of Family Medicine,Department
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,zoster vaccine,Vaccine
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,live zoster vaccine,Vaccine
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,postherpetic neuralgia,Condition
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,ophthalmicus,Condition
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,age groups,Demographic
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Black individuals,Demographic
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Hispanic individuals,Demographic
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,non-Black individuals,Demographic
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,subgroup analysis,Method
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,sensitivity analysis,Method
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccine effectiveness,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,relative effectiveness,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccine administration,Process
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,infection,Process
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Shirin Mazumder,Professional
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Vielot,Professional
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccination diseases,Disease
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,University of Tennessee Health Science Center,Organization
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Memphis,Location
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Tennessee,Location
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Mazumder,Person
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Medscape Medical News,Media
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,National Center for Advancing Translational Science,Organization
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,"WebMD, LLC",Company
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,Catherine Lane,Person
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,reminder systems,Concept
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,vaccine programs,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Himalayas,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Astronomical Observatory,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Hanle,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Ladakh,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,India,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,dark sky reserve,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,The Guardian,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Dorje Angchuk,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Aakash Hassan,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Tsering Dolkar,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Venus,Astronomical Object
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Milky Way,Astronomical Object
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Institute of Astrophysics,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Niruj Mohan Ramanujam,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Bengaluru,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Himalayan Chandra telescope,Telescope
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Digpa-ratsa Ri,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Dolkar,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astro-tourism initiative,Event
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Astronomical Observatory,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Padma Chamchot,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Ladakhi,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,astro-ambassador,Occupation
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,star party,Event
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Ladakhi culture,Concept

@@ -1,0 +1,38 @@
+graph TD
+  Alzheimers_disease["Alzheimer’s disease<br/><i>Disease</i>"]
+  ageing["ageing<br/><i>Process</i>"]
+  brain_scans["brain scans<br/><i>Method</i>"]
+  Proceedings_of_the_National_Academy_of_Sciences["Proceedings of the National Academy of S<br/><i>Concept</i>"]
+  Alzheimers_Drugs["Alzheimer’s Drugs<br/><i>Drug</i>"]
+  brain_changes["brain changes<br/><i>Process</i>"]
+  Alzheimers["Alzheimer’s<br/><i>Disease</i>"]
+  lithium["lithium<br/><i>Drug</i>"]
+  Ageing_Brain_Neurodegeneration["Ageing Brain Neurodegeneration<br/><i>Concept</i>"]
+  gene_therapy["gene therapy<br/><i>Method</i>"]
+  Huntingtons_disease["Huntington’s disease<br/><i>Disease</i>"]
+  brain_development["brain development<br/><i>Process</i>"]
+  skin_capillary_ageing["skin capillary ageing<br/><i>Concept</i>"]
+  breast_cancer["breast cancer<br/><i>Disease</i>"]
+  nanofab_processes["nanofab processes<br/><i>Method</i>"]
+  Belfast["Belfast<br/><i>Location</i>"]
+  Queens_University_Belfast["Queen's University Belfast<br/><i>Organization</i>"]
+  Guangming_Distrcit_Shenzhen_China["Guangming Distrcit, Shenzhen, China<br/><i>Location</i>"]
+  Shenzhen_Medical_Academy_of_Research_and_Translati["Shenzhen Medical Academy of Research and<br/><i>Organization</i>"]
+  Madison_Wisconsin["Madison, Wisconsin<br/><i>Location</i>"]
+  University_of_Wisconsin_School_of_Medicine_and_Pub["University of Wisconsin School of Medici<br/><i>Organization</i>"]
+  Universit_libre_de_Bruxelles["Université libre de Bruxelles<br/><i>Organization</i>"]
+  molecular_biology["molecular biology<br/><i>Field</i>"]
+  biotechnology["biotechnology<br/><i>Field</i>"]
+  synthetic_biology["synthetic biology<br/><i>Field</i>"]
+  CUHKShenzhen["CUHK-Shenzhen<br/><i>University</i>"]
+  Gosselies["Gosselies<br/><i>Location</i>"]
+  Shenzhen["Shenzhen<br/><i>Location</i>"]
+  Guangdong["Guangdong<br/><i>Location</i>"]
+  Ageing["Ageing<br/><i>Concept</i>"]
+  lithium_supplement["lithium supplement<br/><i>Drug</i>"]
+  memory_loss["memory loss<br/><i>Process</i>"]
+  Alzheimers_disease -- "is associated with" --> brain_changes
+  Alzheimers_disease -- "is studied in" --> Proceedings_of_the_National_Academy_of_Sciences
+  brain_scans -- "is used to study" --> ageing
+  Alzheimers -- "is related to" --> memory_loss
+  Alzheimers_disease -- "is investigated by" --> University_of_Wisconsin_School_of_Medicine_and_Pub

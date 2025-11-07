@@ -1,0 +1,30 @@
+graph TD
+  Himalayas["Himalayas<br/><i>Location</i>"]
+  Indian_Astronomical_Observatory["Indian Astronomical Observatory<br/><i>Location</i>"]
+  Hanle["Hanle<br/><i>Location</i>"]
+  Ladakh["Ladakh<br/><i>Location</i>"]
+  India["India<br/><i>Location</i>"]
+  dark_sky_reserve["dark sky reserve<br/><i>Concept</i>"]
+  The_Guardian["The Guardian<br/><i>Organization</i>"]
+  Dorje_Angchuk["Dorje Angchuk<br/><i>Person</i>"]
+  Aakash_Hassan["Aakash Hassan<br/><i>Person</i>"]
+  Tsering_Dolkar["Tsering Dolkar<br/><i>Person</i>"]
+  Venus["Venus<br/><i>Astronomical Object</i>"]
+  Milky_Way["Milky Way<br/><i>Astronomical Object</i>"]
+  Indian_Institute_of_Astrophysics["Indian Institute of Astrophysics<br/><i>Organization</i>"]
+  Niruj_Mohan_Ramanujam["Niruj Mohan Ramanujam<br/><i>Person</i>"]
+  Bengaluru["Bengaluru<br/><i>Location</i>"]
+  Himalayan_Chandra_telescope["Himalayan Chandra telescope<br/><i>Telescope</i>"]
+  Digparatsa_Ri["Digpa-ratsa Ri<br/><i>Location</i>"]
+  Dolkar["Dolkar<br/><i>Person</i>"]
+  astrotourism_initiative["astro-tourism initiative<br/><i>Event</i>"]
+  Indian_Astronomical_Observatory["Indian Astronomical Observatory<br/><i>Organization</i>"]
+  Padma_Chamchot["Padma Chamchot<br/><i>Person</i>"]
+  Ladakhi["Ladakhi<br/><i>Location</i>"]
+  astroambassador["astro-ambassador<br/><i>Occupation</i>"]
+  star_party["star party<br/><i>Event</i>"]
+  Ladakhi_culture["Ladakhi culture<br/><i>Concept</i>"]
+  Hanle -- "located in" --> Ladakh
+  Ladakh -- "part of" --> Himalayas
+  Indian_Astronomical_Observatory -- "located in" --> Hanle
+  Tsering_Dolkar -- "part of" --> astrotourism_initiative
